@@ -1,2 +1,2 @@
 /node_modules
-.envecho "# air-cnc-api" >> README.md
+.env
